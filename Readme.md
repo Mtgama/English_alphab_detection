@@ -37,7 +37,7 @@ This project is a character recognition model trained to classify images of char
 
 The model uses a VGG16 architecture, which is well-suited for image classification tasks. This architecture consists of multiple convolutional layers followed by fully connected layers, achieving high accuracy for image recognition.
 
-![VGG16 Architecture](https://upload.wikimedia.org/wikipedia/commons/5/5e/VGG16_architecture.png)
+![VGG16 Architecture](https://production-media.paperswithcode.com/methods/vgg_7mT4DML.png)
 
 ## Dataset
 
