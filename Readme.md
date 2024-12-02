@@ -23,7 +23,7 @@ This project provides a deep learning model for character recognition using Pyth
 ## Installation
 
 1. Clone the repository:
-- download model: https://drive.google.com/file/d/1-WlqknLGsOY25k5swF0kSAV-c-vrrcrW/view?usp=sharing
+- download model: https://drive.google.com/drive/folders/1MjVkjrx4MKfA0HH2v_oLXgGNsmSo1rKv?usp=drive_link
    ```bash
    git clone https://github.com/Mtgama/English_alphab_detection.git
    cd Character-Recognition-Model
